@@ -1,6 +1,6 @@
 # rouille
 
-![](https://github.com/bnjbvr/rouille/raw/principale/logo.jpeg)
+![](https://github.com/Tunas1337/rgja/raw/glavna/logo.png)
 
 Aren't you _le tired_ from writing Rust programs in English? Do you like saying
 "merde" a lot? Would you like to try something different, in an exotic and
